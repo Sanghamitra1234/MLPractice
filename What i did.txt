@@ -1,5 +1,8 @@
-1. conda create -n myenv python=3.6 (As tensforflow might be there i thought )
+1. conda create -n MLenv python=3.6 (As tensforflow might be there i thought )
 2. activate MLenv
 3. conda install pip (Will help to download package outise conda and its easy)
+4.pip install pandas,numpy,matplotlib,scipy,sklearn
+5.Download the datasets from https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+
 
 
