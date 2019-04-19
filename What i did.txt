@@ -6,3 +6,5 @@
 
 
 
+# RESULTS
+Random Forest Classifier shows the best result.
